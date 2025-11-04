@@ -77,7 +77,7 @@ data-analyst-mini-project/
 ##  Author
 **NITHIS S**  
 Aspiring Data Analyst | Python Enthusiast | Machine Learning Learner  
- [GitHub Profile https://github.com/Nithish0807]
+ [GitHub Profile https://github.com/Nithish0807/data-analyst-mini-project]
 
 
 ##  Project Status
