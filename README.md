@@ -60,7 +60,7 @@ data-analyst-mini-project/
 
 1. **Download or Clone** the repository:
    
-   git clone https://github.com/Nithish0807/data-analyst-mini-project
+   git clone https://github.com/Nithish0807/data-analyst-mini-project.git
    
 2.Open Jupyter Notebook
 
@@ -77,7 +77,7 @@ data-analyst-mini-project/
 ##  Author
 **NITHIS S**  
 Aspiring Data Analyst | Python Enthusiast | Machine Learning Learner  
- [GitHub Profile https://github.com/Nithish0807/data-analyst-mini-project]
+ [GitHub Profile https://github.com/Nithish0807]
 
 
 ##  Project Status
